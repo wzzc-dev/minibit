@@ -1,0 +1,6 @@
+{
+  "is-main": true,
+  "import": [
+    "chuang/minibit/lib"
+  ]
+}
